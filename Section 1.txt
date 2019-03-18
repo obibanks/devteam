@@ -1,0 +1,7 @@
+SECTION 1
+My name is Obioma, codename Obibank$. I'm an aspiring tech developer currently with zero knowledge.
+I hope to be attain a reasonable level of tech know-how within the next 3 months.
+It's gonna be hard and challenging but that's the thing about me, I love challenges.
+Through intense practice and collaboration with other members of Port-Harcourt tech, Im all in for the adventure.
+
+Let me just add another line for the COMMIT.
